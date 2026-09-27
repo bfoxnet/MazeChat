@@ -1,0 +1,7 @@
+{
+  "name": "Aura Chat - Intelligent AI Workspace",
+  "description": "An advanced, responsive AI chatbot workspace featuring multi-model orchestration, reasoning traces, live tool calls, web citations, and contextual memory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
